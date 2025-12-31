@@ -124,4 +124,4 @@ For support or questions, please open an issue in the repository.
 
 ---
 
-Made with ❤️ by Akarsh
+Made with ❤️ by Harsh
